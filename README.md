@@ -1,7 +1,7 @@
 ## 爬蟲工作坊
 
 Portal Site 練習
-- [中興大學官網 最新消息](https://www2.nchu.edu.tw/news/id/2)
+- [中興大學官網 最新消息](https://www2.nchu.edu.tw/news)
 - [臺北城市科大 學務處生輔組公告](https://sao.tpcu.edu.tw/p/403-1017-245-1.php?Lang=zh-tw)
 
 參考資料
